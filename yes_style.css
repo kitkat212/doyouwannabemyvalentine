@@ -27,6 +27,15 @@ body {
     margin-right: 150px;
 }
 
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
 
 .playlistbtn {
     background-color: #FFB6C1;
