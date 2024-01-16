@@ -16,11 +16,6 @@ body {
     margin-bottom: 0px;
 }
 
-.gif_container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 #playlistButton {
     position: absolute;
@@ -49,4 +44,10 @@ body {
     border: none;
     border-radius: 12px;
     transition: background-color 0.3s ease;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
